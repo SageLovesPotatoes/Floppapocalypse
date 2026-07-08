@@ -1,7 +1,0 @@
-Hey, Boss. There's something weird I've found in this game we've been working on.
-So in the final boss level, instead of the enemy we coded, there's a different enemy that appears.
-It seems to called itself 'Blinker Rewrite'
-It takes the form of our player character, 'Blinker', but twisted, and abnormal.
-Anyway, I just thought it would be important to bring it up.
-Yours Truly,
--[REDACTED]
